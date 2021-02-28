@@ -1,0 +1,9 @@
+body {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background: url(/Users/kyzen/Library/Mobile Documents/com~apple~CloudDocs/Basic Java Projects/Counter/Geometric Background #1.jpg)center/cover no-repeat;
+    color: #ffffff;
+    
+}
